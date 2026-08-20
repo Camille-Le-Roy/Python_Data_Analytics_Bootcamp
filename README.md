@@ -1,6 +1,6 @@
 # Python Data Analytics Bootcamp
 
-This repository contains the educational content, curriculum architecture, and code frameworks that I built and taught in the context of my work as a Data Analytics Instructor.
+This repository contains the educational content, and codes that I built and taught in the context of my work as a Data Analytics Instructor.
 
 ---
 
