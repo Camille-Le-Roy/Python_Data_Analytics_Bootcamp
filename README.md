@@ -1,6 +1,6 @@
 # Python Data Analytics Bootcamp
 
-# Instructor: Camille Le Roy, PhD
+**Instructor: Camille Le Roy, PhD**
 
 This repository contains the educational content and codes that I built and taught in the context of my work as a Data Analytics Instructor.
 
