@@ -7,7 +7,7 @@
 This repository contains the educational content and codes that I built and taught in the context of my work as a Data Analytics Instructor.<br><br><br><br>
 
 
-## Core Pillars of the Curriculum
+## Curriculum
 
 ### 1. Data Analytics, Spatial-Temporal Analysis & Software Engineering
 * **Exploratory Data Analysis (EDA):** Perform rigorous data cleaning, statistical analysis, and visual data discovery to uncover underlying patterns.
