@@ -9,9 +9,11 @@ This repository contains the educational content and codes that I built and taug
 
 ## Core Pillars of the Curriculum
 
-### 1. Software Engineering and Data Structures
-* **Object-Oriented Programming (OOP):** Master robust software design principles and code optimization techniques.
-* **Specialized Engineering:** Gain expertise in handling large data structures and geospatial datasets.
+### 1. Data Analytics, Spatial-Temporal Analysis & Software Engineering
+* **Exploratory Data Analysis (EDA):** Perform rigorous data cleaning, statistical analysis, and visual data discovery to uncover underlying patterns.
+* **Spatial-Temporal Processing:** Work with time-series data and complex geospatial datasets for advanced temporal trend forecasting and mapping.
+* **Software Engineering & OOP:** Apply Object-Oriented Programming (OOP) principles to write modular, maintainable, and production-ready codebases.
+* **Code Optimization Techniques:** Master algorithmic efficiency, vectorization, and execution profiling to optimize data processing performance.
 
 ### 2. Machine Learning and AI Modeling
 * **Predictive Frameworks:** Build advanced Machine Learning, Deep Learning, and Natural Language Processing (NLP) models.
