@@ -9,11 +9,11 @@ This repository contains the educational content and codes that I built and taug
 
 ## Core Pillars of the Curriculum
 
-### 1. Software Engineering and Advanced Data Structures
+### 1. Software Engineering and Data Structures
 * **Object-Oriented Programming (OOP):** Master robust software design principles and code optimization techniques.
-* **Specialized Engineering:** Gain expertise in handling massive data structures and complex geospatial datasets.
+* **Specialized Engineering:** Gain expertise in handling large data structures and geospatial datasets.
 
-### 2. Advanced Machine Learning and AI Modeling
+### 2. Machine Learning and AI Modeling
 * **Predictive Frameworks:** Build advanced Machine Learning, Deep Learning, and Natural Language Processing (NLP) models.
 * **Neural Networks and LLMs:** Construct deep neural architectures and fine-tune Large Language Models (LLMs).
 * **Responsible AI:** Ensure model interpretability, fairness, and ethical decision-making using SHAP and LIME frameworks.
